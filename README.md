@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Tobias Insaurralde</h1>
 
 # 💫 Acerca de mí:
-💻¡Hola! Soy Tobias, tengo 19 años, soy desarrollador web Front-end en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry 🎓, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize, las cuales me permiten abordar proyectos con confianza y creatividad. Mi enfoque principal en este momento es consolidar mis habilidades como desarrollador frontend y contribuir de manera efectiva a proyectos web.💻<br><br>🔭
-Busco oportunidades laborales donde pueda expandir mis habilidades y ofrecer soluciones innovadoras. Estoy emocionado por unirme a proyectos desafiantes y comprometerme con dedicación y perseverancia.
+💻¡Hola! Soy Tobias, tengo 19 años, soy desarrollador web Front-end en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry 🎓, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize, las cuales me permiten abordar proyectos con confianza y creatividad.💻<br><br>🔭
+Busco oportunidades laborales donde pueda expandir mis habilidades y ofrecer soluciones innovadoras de manera efectiva a proyectos web. Estoy emocionado por unirme a proyectos desafiantes y comprometerme con dedicación y perseverancia.
 
 ## 🌐 Redes sociales:
 📫 Donde contactarme tinsaurralde17@gmail.com<br><br>
