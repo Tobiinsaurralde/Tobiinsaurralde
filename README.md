@@ -4,9 +4,8 @@
 # 💫 Acerca de mí:
 💻¡Hola! Soy Tobias, tengo 19 años, soy desarrollador web Frontend en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry y cursos externos realizados previamente, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize. Mi enfoque principal en este momento es consolidar mis habilidades como desarrollador frontend y contribuir de manera efectiva a proyectos web.💻<br><br>🔭Actualmente, estoy enfocado en ampliar mis conocimientos y experiencia como desarrollador frontend, y estoy interesado en oportunidades para realizar prácticas como Desarrollador Jr en proyectos web. Me apasiona aprender y enseñar, y estoy comprometido a crecer profesionalmente junto con una empresa y mis compañeros de trabajo.🔭<br><br>✨Estoy emocionado de explorar nuevas oportunidades y contribuir de manera significativa al éxito de los proyectos en los que me involucre. ¡Espero tener la oportunidad de trabajar juntos!✨
 
-[![](https://visitcount.itsvg.in/api?id=FedeCodeLab&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Redes sociales:
-📫 Donde contactarme federicoguzman.css@gmail.com<br><br>
+📫 Donde contactarme tinsaurralde17@gmail.com<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tobiinsaurralde_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TobiasInsaurralde) 
 
