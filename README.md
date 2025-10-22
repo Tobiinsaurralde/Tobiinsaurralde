@@ -1,8 +1,13 @@
 <h1 align="center">Hola 👋, soy Tobias Insaurralde</h1>
 
 # 💫 Acerca de mí:
-💻¡Hola! Soy Tobias, tengo 20 años, soy desarrollador web Front-end en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry 🎓, he adquirido habilidades en HTML5, CSS3, JavaScript (incluyendo frameworks como React.js), SQL, Express y Sequelize, las cuales me permiten abordar proyectos con confianza y creatividad.💻<br><br>🔭
-Busco oportunidades laborales donde pueda expandir mis habilidades y ofrecer soluciones innovadoras de manera efectiva a proyectos web. Estoy emocionado por unirme a proyectos desafiantes y comprometerme con dedicación y perseverancia.
+💻Como desarrollador de Software con 3 años de experiencia, me especializo en desarrollar aplicaciones robustas, escalables y fáciles de usar utilizando tecnologías como Node.js, Nest.js, JavaScript, TypeScript, React.js y Next.js. Mi experiencia abarca tanto el desarrollo frontend como backend, con una sólida base en el stack MERN y experiencia en la creación de aplicaciones frontend headless como Progressive Web Applications. 
+
+Tengo un alto nivel de habilidad en soluciones serverless utilizando frameworks como CloudFormation, SAM y Serverless Framework, además de manejar bases de datos relacionales y no relacionales. Soy competente en herramientas como AWS Services, Git, y Postman, y destaco en entornos ágiles como Scrum, entregando código de alta calidad que cumple con los requisitos técnicos y comerciales. 
+
+Mi trabajo se centra en crear experiencias de usuario intuitivas, colaborar con equipos multifuncionales y resolver desafíos complejos. Estoy comprometido con las prácticas de código limpio, las revisiones de código y el fomento del crecimiento del equipo a través del intercambio de conocimientos. Además, aporto experiencia en arquitectura de microservicios y resolución de problemas de usabilidad.
+
+Con una pasión por el aprendizaje continuo, me mantengo atento a las tecnologías emergentes para ofrecer soluciones eficientes, seguras y escalables. ¡Conectemos para discutir cómo mi experiencia técnica y mi enfoque colaborativo pueden contribuir al éxito de tu equipo!
 
 ## 🌐 Redes sociales:
 📫 Donde contactarme tinsaurralde17@gmail.com<br><br>
